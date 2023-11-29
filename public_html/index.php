@@ -12,6 +12,7 @@
  style="background-color: #e3f2fd;">
   <div class="container-fluid">
   <a class="nav-link " href="login.php">login</a> 
+  <a href="user/signup.php" class="nav-link">signup</a>
   <a class="nav-link"href="resume.php">Resume</a>
   
   <a class="nav-link" href="#">contact us</a>
